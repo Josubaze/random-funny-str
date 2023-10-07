@@ -1,0 +1,24 @@
+{
+  "name": "random-funny-str",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Josubaze/random-funny-str.git"
+  },
+  "keywords": [],
+  "author": "Josue Baez <josuejbaeze4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Josubaze/random-funny-str/issues"
+  },
+  "homepage": "https://github.com/Josubaze/random-funny-str#readme",
+  "bin": {
+    "random-funny-str": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
